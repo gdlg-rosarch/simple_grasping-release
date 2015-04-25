@@ -1,0 +1,12 @@
+Source: ros-indigo-simple-grasping
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-indigo-actionlib, ros-indigo-catkin, ros-indigo-cmake-modules, ros-indigo-geometry-msgs, ros-indigo-grasping-msgs, ros-indigo-message-generation, ros-indigo-moveit-msgs, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-shape-msgs, ros-indigo-tf
+Homepage: http://ros.org/wiki/simple_grasping
+Standards-Version: 3.9.2
+
+Package: ros-indigo-simple-grasping
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-indigo-actionlib, ros-indigo-geometry-msgs, ros-indigo-grasping-msgs, ros-indigo-message-runtime, ros-indigo-moveit-msgs, ros-indigo-moveit-python, ros-indigo-pcl-ros, ros-indigo-roscpp, ros-indigo-sensor-msgs, ros-indigo-shape-msgs, ros-indigo-tf
+Description: Basic grasping applications and demos.
