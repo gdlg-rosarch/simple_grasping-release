@@ -1,0 +1,12 @@
+Source: ros-jade-simple-grasping
+Section: misc
+Priority: extra
+Maintainer: Michael Ferguson <mferguson@fetchrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jade-actionlib, ros-jade-catkin, ros-jade-cmake-modules, ros-jade-geometry-msgs, ros-jade-grasping-msgs, ros-jade-message-generation, ros-jade-moveit-msgs, ros-jade-pcl-ros, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-shape-msgs, ros-jade-tf
+Homepage: http://ros.org/wiki/simple_grasping
+Standards-Version: 3.9.2
+
+Package: ros-jade-simple-grasping
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jade-actionlib, ros-jade-geometry-msgs, ros-jade-grasping-msgs, ros-jade-message-runtime, ros-jade-moveit-msgs, ros-jade-moveit-python, ros-jade-pcl-ros, ros-jade-roscpp, ros-jade-sensor-msgs, ros-jade-shape-msgs, ros-jade-tf
+Description: Basic grasping applications and demos.
