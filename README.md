@@ -1,3 +1,26 @@
+## simple_grasping (kinetic) - 0.2.2-0
+
+The packages in the `simple_grasping` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release -r kinetic -t kinetic simple_grasping` on `Tue, 23 Aug 2016 19:09:21 -0000`
+
+The `simple_grasping` package was released.
+
+Version of package(s) in repository `simple_grasping`:
+
+- upstream repository: https://github.com/mikeferguson/simple_grasping.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.2.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.21`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.4.7`
+- vcstools version: `0.1.38`
+
+
 ## simple_grasping (indigo) - 0.2.2-0
 
 The packages in the `simple_grasping` repository were released into the `indigo` distro by running `/usr/bin/bloom-release -r indigo -t indigo simple_grasping` on `Sat, 25 Apr 2015 04:27:29 -0000`
