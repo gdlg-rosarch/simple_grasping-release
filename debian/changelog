@@ -1,0 +1,22 @@
+ros-kinetic-simple-grasping (0.2.2-0xenial) xenial; urgency=high
+
+  * parameterize gripper opening tolerance
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Fri, 24 Apr 2015 07:00:00 -0000
+
+ros-kinetic-simple-grasping (0.2.1-0xenial) xenial; urgency=high
+
+  * create standalone grasp_planner_node
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Sun, 05 Apr 2015 07:00:00 -0000
+
+ros-kinetic-simple-grasping (0.2.0-0xenial) xenial; urgency=high
+
+  * Initial release
+  * Contributors: Michael Ferguson
+
+ -- Michael Ferguson <mferguson@fetchrobotics.com>  Wed, 18 Mar 2015 07:00:00 -0000
+
+
